@@ -1,0 +1,47 @@
+PODS:
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - Charts (2.1.6)
+  - CocoaLumberjack (2.2.0):
+    - CocoaLumberjack/Default (= 2.2.0)
+    - CocoaLumberjack/Extensions (= 2.2.0)
+  - CocoaLumberjack/Core (2.2.0)
+  - CocoaLumberjack/Default (2.2.0):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.2.0):
+    - CocoaLumberjack/Default
+  - Mantle (2.0.5):
+    - Mantle/extobjc (= 2.0.5)
+  - Mantle/extobjc (2.0.5)
+  - YapDatabase (2.7.6):
+    - YapDatabase/standard (= 2.7.6)
+  - YapDatabase/standard (2.7.6):
+    - CocoaLumberjack (~> 2)
+
+DEPENDENCIES:
+  - BlocksKit (~> 2.2.5)
+  - Charts (~> 2.1.6)
+  - Mantle (~> 2.0.5)
+  - YapDatabase (~> 2.7.6)
+
+SPEC CHECKSUMS:
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  Charts: 5e1e5ac23898e5b09d226a2fc3e9d86bc281937e
+  CocoaLumberjack: 17fe8581f84914d5d7e6360f7c70022b173c3ae0
+  Mantle: 1912395033f601de5adc8ee91e48f46e4c7051ad
+  YapDatabase: 00e5a5d1b5dba1bd540ef644576233b5612e6122
+
+COCOAPODS: 0.38.2

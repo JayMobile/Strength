@@ -1,0 +1,14 @@
+//
+//  Strength-Prefix.pch
+//  Strength
+//
+//  Created by Julius Parishy on 11/17/15.
+//  Copyright © 2015 Julius Parishy. All rights reserved.
+//
+
+#ifndef Strength_Prefix_h
+#define Strength_Prefix_h
+
+#import <BlocksKit/BlocksKit.h>
+
+#endif /* Strength_Prefix_h */

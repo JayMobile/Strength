@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Strength/JEPWorkoutsListViewController.m"
+            timestampString = "469507388.257553"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "-tableView:numberOfRowsInSection:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Strength/JEPWorkoutsListViewController.m"
+            timestampString = "469507388.257553"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "-reloadWorkouts"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPWorkoutsListViewController reloadWorkouts]"
+                  moduleName = "Strength"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/Strength/JEPWorkoutsListViewController.m"
+                  timestampString = "469424147.380124"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__47-[JEPWorkoutsListViewController reloadWorkouts]_block_invoke"
+                  moduleName = "Strength"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/Strength/JEPWorkoutsListViewController.m"
+                  timestampString = "469424147.380342"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "65">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Strength/JEPWorkoutsListViewController.m"
+            timestampString = "469507388.257553"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "-commitChangesForWorkout:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPWorkoutsListViewController commitChangesForWorkout:]"
+                  moduleName = "Strength"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/Strength/JEPWorkoutsListViewController.m"
+                  timestampString = "469422553.976003"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__57-[JEPWorkoutsListViewController commitChangesForWorkout:]_block_invoke_2"
+                  moduleName = "Strength"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/Strength/JEPWorkoutsListViewController.m"
+                  timestampString = "469422553.976216"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Strength/JEPExercisesViewController.m"
+            timestampString = "469507388.257553"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "-reloadAllExercises"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Strength/JEPWorkoutsListViewController.m"
+            timestampString = "469507388.257553"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "-reloadWorkouts"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Strength/JEPWorkoutsListViewController.m"
+            timestampString = "469507388.257553"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "-reloadWorkouts"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/JBChartView/Classes/JBBarChartView.m"
+            timestampString = "469426172.047772"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "-construct"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StrengthTests/JEPExerciseSetTests.m"
+            timestampString = "469505771.792601"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "-testSetComments"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseSetTests testSetComments]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/StrengthTests/JEPExerciseSetTests.m"
+                  timestampString = "469506498.317027"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "9378">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseSetTests testSetComments]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/StrengthTests/JEPExerciseSetTests.m"
+                  timestampString = "469506498.317267"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "10928">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseSetTests testSetComments]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/StrengthTests/JEPExerciseSetTests.m"
+                  timestampString = "469506498.317597"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "11473">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseSetTests testSetComments]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/StrengthTests/JEPExerciseSetTests.m"
+                  timestampString = "469506498.317867"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "11601">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StrengthTests/JEPExerciseSetTests.m"
+            timestampString = "469505809.048781"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "-testSetComments"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseSetTests testSetComments]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/StrengthTests/JEPExerciseSetTests.m"
+                  timestampString = "469506480.16168"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "3384">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseSetTests testSetComments]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/StrengthTests/JEPExerciseSetTests.m"
+                  timestampString = "469506480.161964"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "4931">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseSetTests testSetComments]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/StrengthTests/JEPExerciseSetTests.m"
+                  timestampString = "469506480.162268"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "5473">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseSetTests testSetComments]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/StrengthTests/JEPExerciseSetTests.m"
+                  timestampString = "469506480.162617"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "5601">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Strength/JEPExerciseSet.m"
+            timestampString = "469506880.318942"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
+            landmarkName = "-setPropertiesFromString:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseSet setPropertiesFromString:]"
+                  moduleName = "Strength"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/Strength/JEPExerciseSet.m"
+                  timestampString = "469506244.780986"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "190"
+                  endingLineNumber = "190"
+                  offsetFromSymbolStart = "1654">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseSet setPropertiesFromString:]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/Strength/JEPExerciseSet.m"
+                  timestampString = "469506245.224483"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "190"
+                  endingLineNumber = "190"
+                  offsetFromSymbolStart = "1654">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StrengthTests/JEPExerciseSetTests.m"
+            timestampString = "469506283.722833"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "-testSetComments"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseSetTests testSetComments]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/StrengthTests/JEPExerciseSetTests.m"
+                  timestampString = "469506389.845277"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "15378">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseSetTests testSetComments]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/StrengthTests/JEPExerciseSetTests.m"
+                  timestampString = "469506389.845621"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "16928">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseSetTests testSetComments]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/StrengthTests/JEPExerciseSetTests.m"
+                  timestampString = "469506389.845912"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "17022">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseSetTests testSetComments]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/StrengthTests/JEPExerciseSetTests.m"
+                  timestampString = "469506389.846243"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "17150">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Strength/JEPExercise.m"
+            timestampString = "469509370.371011"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
+            landmarkName = "-canonicalName"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExercise canonicalName]"
+                  moduleName = "Strength"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/Strength/JEPExercise.m"
+                  timestampString = "469508934.486008"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "174"
+                  endingLineNumber = "174"
+                  offsetFromSymbolStart = "567">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExercise canonicalName]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/Strength/JEPExercise.m"
+                  timestampString = "469508935.065636"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "174"
+                  endingLineNumber = "174"
+                  offsetFromSymbolStart = "567">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StrengthTests/JEPExerciseTests.m"
+            timestampString = "469509820.254408"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
+            landmarkName = "-testDisplayableCanonicalNames"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseTests testDisplayableCanonicalNames]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/StrengthTests/JEPExerciseTests.m"
+                  timestampString = "469509108.726719"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "9558">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseTests testDisplayableCanonicalNames]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/StrengthTests/JEPExerciseTests.m"
+                  timestampString = "469509108.727042"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "11118">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseTests testDisplayableCanonicalNames]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/StrengthTests/JEPExerciseTests.m"
+                  timestampString = "469509108.727352"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "11250">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JEPExerciseTests testDisplayableCanonicalNames]"
+                  moduleName = "StrengthTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Desktop/Strength/StrengthTests/JEPExerciseTests.m"
+                  timestampString = "469509108.727557"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "11378">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
